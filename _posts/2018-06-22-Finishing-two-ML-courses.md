@@ -2,11 +2,11 @@ It’s been more than 2 months since I started this blog, but it has been extrem
 
 - An Introduction to Statistical Learning – an online course taught by Pr. Trevor Hastie and Pr. Robert Tibshirani of Stanford University.
 
-![Standford Statistical learning](../media/statistical_learning.png)
+![Standford Statistical learning](https://github.com/trantrikien239/trantrikien239.github.io/tree/master/media/statistical_learning.png)
 
 - Statistical Learning – an offline course organised by Vietnam Institute for Advanced Study in Mathematics.
 
-![Viasm Statistical learning](../media/viasm-768x1024.jpg)
+![Viasm Statistical learning](https://github.com/trantrikien239/trantrikien239.github.io/tree/master/media/viasm-768x1024.jpg)
 
 Plus, I am going to work for Boston Consulting Group as a Business Analyst. It’s more of a consulting work rather than something machine learning related. So, this blog might not be about data science anymore, or at least for a couple of months. Since I can swap my personal domain (kientran.win) with the current domain (learning-data.science), the content of this blog can be about everything now :))
 
