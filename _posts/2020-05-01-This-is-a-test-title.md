@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Test title v4"
+date: 2020-05-01
+---
+
 # This is a test header
 test content version 3
 
