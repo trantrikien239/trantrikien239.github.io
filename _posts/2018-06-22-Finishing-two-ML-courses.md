@@ -1,4 +1,4 @@
-It’s been more than 2 months since I started this blog, but it has been extremely in-active due to my laziness when it comes to writing 🙁 To be honest, I have been actively learning data science, especially statistical learning – the theory for machine learning, but to write something about it requires another level of commitment. So I guess I will use this blog as a place to exhibit the certifications frome 2 courses on statistical learning that I have finished:
+It’s been more than 2 months since I started this blog, but it has been extremely in-active due to my laziness when it comes to writing. 🙁 So I guess I will use this blog as a place to exhibit the certifications from 2 courses on statistical learning that I have finished.
 
 - An Introduction to Statistical Learning – an online course taught by Pr. Trevor Hastie and Pr. Robert Tibshirani of Stanford University.
 

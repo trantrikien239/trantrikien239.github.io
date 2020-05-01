@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Master Data Science by Kien Tran
+title: Data science blog posts
 ---
 # {{ page.title }}
 
