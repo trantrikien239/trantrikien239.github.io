@@ -20,7 +20,7 @@ First, I import numpy because it’s the simplest and most efficient way to gene
 import numpy as np
 ```
 
-2. Then, let’s prepare a function to find out if 3 integers are co-prime or not:
+Then, let’s prepare a function to find out if 3 integers are co-prime or not:
 
 - First, we need to define a function that get greatest common divisor (GCD) of 2 numbers. GCD of 3 numbers are easily calculated by get GCD of 2 numbers first, then get GCD of that and the last number.
 - Then define a function that return True if 3 numbers are co-prime.
@@ -35,7 +35,7 @@ def coprime_3_int(a,b,c):
     return gcd(gcd(a, b), c) == 1
 ```
 
-3. Now, it’s time for trials and errors (like hundred of thousands time).
+Now, it’s time for trials and errors (like hundred of thousands time).
 
 ```python
 sample = 1e5
@@ -47,7 +47,7 @@ for in range(sample):
         num_co_prime += 1
 ```
 
-4. Finally, calculate the Apery’s Constant according to the formula P = 1/C. Need to convert “sample” to float for the division return with decimal point.
+Finally, calculate the Apery’s Constant according to the formula P = 1/C. Need to convert “sample” to float for the division return with decimal point.
 
 ```python
 Aperyls_constant = float(sample) / num_co_prime
