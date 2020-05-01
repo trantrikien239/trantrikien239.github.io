@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data science blog posts
+title: Data Science blog posts
 ---
 # {{ page.title }}
 
