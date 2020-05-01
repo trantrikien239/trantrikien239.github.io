@@ -6,7 +6,7 @@ It’s been more than 2 months since I started this blog, but it has been extrem
 
 - Statistical Learning – an offline course organised by Vietnam Institute for Advanced Study in Mathematics.
 
-![Viasm Statistical learning](https://github.com/trantrikien239/trantrikien239.github.io/tree/master/media/viasm-768x1024.jpg?raw=true)
+![Viasm Statistical learning](https://github.com/trantrikien239/trantrikien239.github.io/blob/master/media/viasm-768x1024.jpg?raw=true)
 
 Plus, I am going to work for Boston Consulting Group as a Business Analyst. It’s more of a consulting work rather than something machine learning related. So, this blog might not be about data science anymore, or at least for a couple of months. Since I can swap my personal domain (kientran.win) with the current domain (learning-data.science), the content of this blog can be about everything now :))
 
