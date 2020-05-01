@@ -1,5 +1,6 @@
 theme: jekyll-theme-hacker
 name: Master Data Science by Kien Tran
-title: [Master Data Science by Kien Tran](https://master-data.science/)
+title: Master Data Science by Kien Tran
 description: Go with me on the journey of mastering Data Science
+show_downloads: "false"
 google_analytics: UA-65705806-5
