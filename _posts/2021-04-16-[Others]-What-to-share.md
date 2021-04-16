@@ -1,4 +1,4 @@
-2020-04-16 @trantrikien239
+\[2020-04-16\] @trantrikien239
 
 It's been a long time since the last time I share something. Lately, I have been feeling that my life is moving too fast. If I could keep a blog about what I do and what I think, I can retain the knowledges collected along the way. Furthermore, doing the additional research for the blog would force me to deepdive into the topic, and thus, enrich and crystalize the insights.
 
