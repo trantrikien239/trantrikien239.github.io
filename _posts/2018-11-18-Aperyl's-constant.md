@@ -2,7 +2,7 @@ So, yesterday I came across this video about the amazing Apery's Constant.
 
 [![Apéry's constant - Numberphile](https://res.cloudinary.com/marcomontalbano/image/upload/v1588356230/video_to_markdown/images/youtube--ur-iLy4z3QE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ur-iLy4z3QE "Apéry's constant - Numberphile")
 
-## The Problem
+# The Problem
 
 In short, Apery’s Constant (C) is this infinity sum:
 
@@ -12,7 +12,7 @@ And apparently 1/C is the probability that 3 random integers are co-prime.
 
 The Mathematician in video ask his friends on Twitter to write 3 random number in the comments to approximately calculate Apery’s Constant. But since I don’t have Twitter (or many friends that are interested in this kind of thing =]]]). So I think why not test it myself using a simple python script.
 
-## Let’s code
+# Let’s code
 
 First, I import numpy because it’s the simplest and most efficient way to generate random arrays of 3 integers.
 
