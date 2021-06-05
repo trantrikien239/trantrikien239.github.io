@@ -18,3 +18,4 @@ Hmm, interesting topics to choose from :))
 
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="kientran239" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/kientran239?trk=profile-badge">Kien Tran</a></div>
               
+              
